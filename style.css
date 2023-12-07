@@ -1,0 +1,54 @@
+/* size of an image */
+/* img{
+    width: 250px;
+    height: 250px;
+} */
+/* align images in css */
+/* img{
+  float: left;
+} */
+/* centering images in css */
+/* img{
+    display: block;
+    margin: auto;
+} */
+/* background images in css */
+/* body{
+    background-image: url(./images/jonatan-pie-3l3RwQdHRHg-unsplash.jpg);
+}
+h1{
+    color: white;
+} */
+/* background repeat */
+/* body{
+    font-size: xx-large;
+    background-image: url(./images/jonatan-pie-3l3RwQdHRHg-unsplash.jpg);
+    background-attachment: fixed;
+}
+p{
+    color: white;
+} */
+/* background position */
+/* body{
+    background-image: url(./images/images.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+} */
+
+/* background short hand */
+/* body{
+    background: #ffffff url(./images/download.jpg) no-repeat top right;
+} */
+
+/* linear gradient */
+body{
+    background: linear-gradient(red,green);
+    height: 100vh;
+}
+
+
+
+
+
+
